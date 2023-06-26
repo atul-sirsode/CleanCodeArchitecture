@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CleanCodeArchitecture/.vs
+/CleanCodeArchitecture/Application/bin/Debug/net6.0
+/CleanCodeArchitecture/Application/obj
+/CleanCodeArchitecture/Domain/bin/Debug/net6.0
+/CleanCodeArchitecture/Domain/obj
+/CleanCodeArchitecture/Infrastructure/bin/Debug/net6.0
+/CleanCodeArchitecture/Infrastructure/obj
+/CleanCodeArchitecture/Presentation/bin/Debug/net6.0
+/CleanCodeArchitecture/Presentation/obj
+/CleanCodeArchitecture/WebApi/bin/Debug/net6.0
+/CleanCodeArchitecture/WebApi/obj
+/.vs/CleanCodeArchitecture/FileContentIndex
+*.wsuo
+*.sqlite
+*.json
